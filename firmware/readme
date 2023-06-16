@@ -1,0 +1,2 @@
+The vial hex file currently only support switches.
+The use of other functions e.g. rotary encoder, OLED, has not been properly tested
