@@ -11,3 +11,8 @@ Katana stagger version of Cain's Vault35 keyboard
 Two bottom row options:
 - dual 1.75u, or
 - dual 1.5u separated by switch or rotary encoder
+
+# Credits
+
+- projectcain [
+](https://github.com/projectcain/Board-Firmware/tree/main/vault35)https://github.com/projectcain/Board-Firmware/tree/main/vault35 
