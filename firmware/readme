@@ -1,2 +1,2 @@
-The vial hex file currently only support switches and rotary encoder
+The vial hex file currently supports both layouts with switches and a centered rotary encoder
 Other functions e.g. RGB and OLED have not been ported to vial
